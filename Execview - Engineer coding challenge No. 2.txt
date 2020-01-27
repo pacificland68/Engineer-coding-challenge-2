@@ -1,0 +1,33 @@
+Execview - Engineer coding challenge #2
+
+Complete as much as you can in 60-90 min. This must be 100% your own code. 
+
+
+
+Problem statement:
+
+Process the attached CSV file (chicago-bulls.csv), load the file, and create a report in JSON which will contain the following:
+Sort the players based on the PPG descending, calculate the average point for the team (based on the PPG), find the gold, silver and bronze player based on PPG, count the number of players playing on each position and the average height in cm. Please see the example expected report file (chicago-bulls.json).
+  
+You can use any language, library or tool you feel comfortable with, but try to do as much as possible without 3rd party libraries.
+
+
+
+Output package:
+
+We prefer if the solution is provided as a Git repository including all the implementation commits history. Please follow the frequent commit practice while working on the task so that your local Git repository indicates reasonable milestones of your implementation. You can zip the repo and send it to us, or you can send a link to your GitHub repo if prefer.
+
+
+
+The repository should contain:
+
+	1. Source code with no binaries.
+		a. It should be buildable/viewable.
+		b. In case you need to use external libraries, please add them.
+	2. Any installation and deployment instructions for apps and components
+
+Coding and development standards:
+ 
+You are expected to apply industry best practices and techniques such as:
+	1. Unit testing
+	2. Inversion of control and dependency injection, SOLID
